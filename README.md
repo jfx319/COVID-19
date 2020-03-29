@@ -36,6 +36,11 @@ https://systems.jhu.edu/
 * 1Point3Arces: https://coronavirus.1point3acres.com/en
 * WorldoMeters: https://www.worldometers.info/coronavirus/
 
+Compare to:
+* UVA Biocomplexity Institute's dashboard: https://nssac.bii.virginia.edu/covid-19/dashboard/
+  * daily zip "download all": https://nssac.bii.virginia.edu/covid-19/dashboard/data/nssac-ncov-data-country-state.zip
+
+
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
 https://systems.jhu.edu/research/public-health/ncov/
