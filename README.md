@@ -43,6 +43,8 @@ Compare to:
 Landmark reports/papers:
 - WHO: https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf
 
+Science opinions:
+- Macroeconomic impact: https://www.sciencemag.org/news/2020/03/modelers-weigh-value-lives-and-lockdown-costs-put-price-covid-19
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
