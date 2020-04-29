@@ -39,6 +39,7 @@ https://systems.jhu.edu/
 Compare to:
 * UVA Biocomplexity Institute's dashboard: https://nssac.bii.virginia.edu/covid-19/dashboard/
   * daily zip "download all": https://nssac.bii.virginia.edu/covid-19/dashboard/data/nssac-ncov-data-country-state.zip
+* Projections: https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/Combined-PPT-April-13.pdf
 
 Landmark reports/papers:
 - WHO: https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf
